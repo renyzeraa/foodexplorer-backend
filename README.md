@@ -44,7 +44,7 @@ http://localhost:3333/
 
 ### Deploy Front-end do Projeto 🚀
 
-<a href='' target='_blank'>Página do projeto</a>
+<a href='https://foodexplorer-new.vercel.app/' target='_blank'>Página do projeto</a>
 
 <a href='https://github.com/renyzeraa/foodexplorer-frontend' target='_blank'>Projeto no Github</a>
 
