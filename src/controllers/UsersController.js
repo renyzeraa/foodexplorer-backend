@@ -1,4 +1,4 @@
-const { hash, compare } = require('bcryptjs')
+const { hash } = require('bcryptjs')
 const sqliteConnection = require('../database/sqlite')
 const AppError = require('../utils/AppError')
 
@@ -15,7 +15,7 @@ class UsersController {
    */
   async create(req, res) {
     let { name, email, password, isAdmin } = req.body
-   
+
     const database = await sqliteConnection()
 
     const checkUserExists = await database.get(

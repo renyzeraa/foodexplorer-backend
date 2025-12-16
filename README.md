@@ -22,7 +22,7 @@ Instale os pacotes de dependências
 npm install
 ```
 
-- Comandos para testar o back-end localmente (em localhost)
+-   Comandos para testar o back-end localmente (em localhost)
 
 Baixar as migrations para ter todo o banco de dados padrão
 
@@ -44,7 +44,7 @@ http://localhost:3333/
 
 ### Deploy Front-end do Projeto 🚀
 
-<a href='https://foodexplorer-eight.vercel.app/' target='_blank'>foodexplorer-eight.vercel.app/</a>
+<a href='' target='_blank'>Página do projeto</a>
 
 <a href='https://github.com/renyzeraa/foodexplorer-frontend' target='_blank'>Projeto no Github</a>
 
