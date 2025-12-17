@@ -1,19 +1,13 @@
-# Back-end do App Food Explorer 🥞🥓🥜😋
-
-Após realizado revisão, foi pedido para que o backend fosse refeito.
+# Back-end do FoodExplorer 🥞🥓
 
 Projeto final do Curso Explorer da RocketSeat, neste desafio, desenvolvi o food explorer, um menu interativo para um restaurante fictício, que funciona com layout mobile, tablet e desktop. Este projeto utiliza API própria no qual é este repositório.
 
 # Deploy online na rota:
 
-```
-https://foodexplorer-new-backend.onrender.com
-```
-
 Para iniciar o projeto, abra o terminal
 
 ```
-git clone https://github.com/renyzeraa/foodexplorer-backend-new.git
+git clone https://github.com/renyzeraa/foodexplorer-backend.git
 ```
 
 Instale os pacotes de dependências

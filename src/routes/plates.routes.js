@@ -18,17 +18,17 @@ platesRoutes.post(
 );
 
 platesRoutes.get(
-  "/", 
+  "/",
   platesController.index
 );
 
 platesRoutes.get(
-  "/search", 
+  "/search",
   platesController.search
-); 
+);
 
 platesRoutes.get(
-  "/:id", 
+  "/:id",
   platesController.show
 );
 
@@ -40,8 +40,8 @@ platesRoutes.put(
 );
 
 platesRoutes.delete(
-  "/:id", 
-  ensureAuthenticated, 
+  "/:id",
+  ensureAuthenticated,
   platesController.delete
 );
 
